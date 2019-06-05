@@ -1,2 +1,2 @@
-# oi-mundo
-teste inicial sobre ouso do git
+# oi-mundo 
+teste inicial sobre o uso do git
