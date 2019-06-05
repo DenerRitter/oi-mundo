@@ -1,3 +1,3 @@
 # oi-mundo 
 teste inicial sobre uso do git
-estamos desenvolvendo novas funcionalidades no sistema de produçao
+estamos desenvolvendo novas funcionalidadesparaimplementaçao do sistema de produçao
